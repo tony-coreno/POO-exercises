@@ -28,9 +28,6 @@ public class Main {
                 System.out.println("El área es: "+c1.getLado2());
             }
 
-
-
-
         }catch (Exception e){
             System.out.println(e);
         }
